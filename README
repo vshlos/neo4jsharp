@@ -1,0 +1,5 @@
+This is a simple connector to do a very quick cypher query on a neo4J database. I didn't see anything else around which allowed you to do Neo4j queries on cypher.
+
+This uses the HTTP connector to connect.
+
+Will put a lot more work with time.
