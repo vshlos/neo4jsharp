@@ -16,6 +16,8 @@ namespace Neo4jSharp.Cypher
         {
             return (T)ItemArray[index];
         }
+
+    
     }
 
 }
